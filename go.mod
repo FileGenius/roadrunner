@@ -20,6 +20,7 @@ require (
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/viper v1.7.1
 	github.com/spiral/goridge/v2 v2.4.5
+	github.com/spiral/jobs/v2 v2.2.0 // indirect
 	github.com/stretchr/testify v1.6.1
 	github.com/valyala/tcplisten v0.0.0-20161114210144-ceec8f93295a
 	github.com/yookoala/gofast v0.4.0
